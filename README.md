@@ -1,7 +1,5 @@
 # Repositório voltado aos estudos do bootcamp Luizalabs - Back-end com Python
 
---
-
 
 # 🏦 Sistema Bancário - Desafio Luizalabs
 

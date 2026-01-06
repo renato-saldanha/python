@@ -1,0 +1,10 @@
+#Dados 
+prj-rag/db/*
+
+#Arquivos
+*.pdf
+
+#Segunrança
+prj-rag/venv/
+.env
+/iatlas
